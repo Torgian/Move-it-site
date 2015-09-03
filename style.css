@@ -19,7 +19,7 @@ p {
 /* Main */
 .main {
   height: 600px;
-  background: url(http://1.bp.blogspot.com/-b-olQ5vuAZM/UrSko1D3RoI/AAAAAAAACVM/KwnDCtUDGPo/s1600/lide1.jpg) center center no-repeat;
+  background: url(pic1.jpg) center center no-repeat;
   background-size: cover;
   text-align: center;
 }
@@ -97,7 +97,7 @@ p {
 
   text-align: center;
   height: 600px;
-  background: url(http://userfiles.steadyhealth.com/userfiles/articles/jump-on-jack.jpg) center no-repeat;
+  background: url(pic2.jpg) center no-repeat;
   background-size: cover;
 }
 
@@ -119,7 +119,7 @@ p {
 .footer {
   height: 600px;
   text-align: center;
-  background: url(http://www.playenable.com/blog/wp-content/uploads/2013/08/Boxing-London.jpg) center no-repeat;
+  background: url(pic3.jpg) center no-repeat;
   background-size: cover;
 }
 
